@@ -1,3 +1,9 @@
 test: test1
 app:
   user: bmoczadlo2
+spring:
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/bmoczadlo/config-server1/
