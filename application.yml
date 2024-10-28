@@ -1,2 +1,3 @@
 test: test1
-app.user: bmoczadlo2
+app:
+  user: bmoczadlo2
